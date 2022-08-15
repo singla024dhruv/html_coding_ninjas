@@ -1,2 +1,2 @@
-# html_coding_ninjas
+# codesandbox
 Created with CodeSandbox
